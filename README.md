@@ -1,10 +1,10 @@
 # babel-sublime
 
-Language definitions for [ES6+ JavaScript](http://kangax.github.io/compat-table/es6/) with [React JSX syntax](http://facebook.github.io/react/docs/jsx-in-depth.html) extensions.
+ชุดภาษาสำหรับ [ES6+ JavaScript](http://kangax.github.io/compat-table/es6/) มาพร้อมกับ [React JSX syntax](http://facebook.github.io/react/docs/jsx-in-depth.html) extensions.
 
-## Installation
+## การติดตั้ง
 
-Find it as [**Babel**](https://packagecontrol.io/packages/Babel) through [Package Control](https://packagecontrol.io/).
+ค้นหาชื่อ [**Babel**](https://packagecontrol.io/packages/Babel) ผ่าน [Package Control](https://packagecontrol.io/) ใน Sublime Text (ที่ติดตั้งระบบ Package Control แล้ว)
 
 #### Setting as the default syntax
 
